@@ -1,0 +1,20 @@
+
+scissor.png
+size: 256,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+27400075_1612402882141239_301387792_n
+  rotate: false
+  xy: 2, 2
+  size: 62, 50
+  orig: 62, 50
+  offset: 0, 0
+  index: -1
+27400293_1891401420901821_1460400493_n
+  rotate: false
+  xy: 66, 2
+  size: 62, 50
+  orig: 62, 50
+  offset: 0, 0
+  index: -1
